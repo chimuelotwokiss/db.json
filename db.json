@@ -10,10 +10,24 @@
     {
       "id": 2,
       "username": "pe.traba",
-      "password": "contrasena2",
+      "password": "contrasena1",
       "nombre": "pedro traba",
       "correo": "pe.traba@duocuc.cl"
-    }
+    },
+    {
+      "id": 3,
+      "username": "ja.luces",
+      "password": "contrasena1",
+      "nombre": "jesus luces",
+      "correo": "ja.luces@duocuc.cl"
+    },
+    {
+      "id": 4,
+      "username": "mar.orella",
+      "password": "contrasena1",
+      "nombre": "martin orellana",
+      "correo": "mar.orenallac@duocuc.cl"
+    },
 
   ],
   "docentes": [
