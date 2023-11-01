@@ -5,28 +5,32 @@
       "username": "fer.araneda",
       "password": "contrasena1",
       "nombre": "fer araneda",
-      "correo": "fer.araneda@duocuc.cl"
+      "correo": "fer.araneda@duocuc.cl",
+      "number": "123456879"
     },
     {
       "id": 2,
       "username": "pe.traba",
       "password": "contrasena1",
       "nombre": "pedro traba",
-      "correo": "pe.traba@duocuc.cl"
+      "correo": "pe.traba@duocuc.cl",
+      "number": "123456879"
     },
     {
       "id": 3,
       "username": "ja.luces",
       "password": "contrasena1",
       "nombre": "jesus luces",
-      "correo": "ja.luces@duocuc.cl"
+      "correo": "ja.luces@duocuc.cl",
+      "number": "123456879"
     },
     {
       "id": 4,
       "username": "mar.orella",
       "password": "contrasena1",
       "nombre": "martin orellana",
-      "correo": "mar.orenallac@duocuc.cl"
+      "correo": "mar.orenallac@duocuc.cl",
+      "number": "123456879"
     }
 
   ],
@@ -36,14 +40,16 @@
       "username": "patito.ya",
       "password": "contrasena1",
       "nombre": "patito onichan",
-      "correo": "patri.yane@eduocucprofe.cl"
+      "correo": "patri.yane@eduocucprofe.cl",
+      "number": "123456879"
     },
     {
       "id": 2,
       "username": "pa.ya",
       "password": "contrasena2",
       "nombre": "pabro ramirez",
-      "correo": "pedro.ya@eduocucprofe.cl"
+      "correo": "pedro.ya@eduocucprofe.cl",
+      "number": "123456879"
     }
   ]
 }
