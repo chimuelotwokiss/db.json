@@ -7,7 +7,7 @@
       "nombre": "fer araneda",
       "correo": "fer.araneda@duocuc.cl",
       "number": "123456879",
-      "imagenPerfil": "https://img.freepik.com/foto-gratis/flor-rosa-tallo-verde-centro-morado_1340-35951.jpg?w=2000"
+      "imagenPerfil": "https://i.ytimg.com/vi/j3A7Y3JbyXs/maxresdefault.jpg"
     },
     {
       "id": 2,
@@ -16,7 +16,7 @@
       "nombre": "pedro traba",
       "correo": "pe.traba@duocuc.cl",
       "number": "123456879",
-      "imagenPerfil": ""
+      "imagenPerfil": "https://img.freepik.com/foto-gratis/flor-rosa-tallo-verde-centro-morado_1340-35951.jpg?w=2000"
     },
     {
       "id": 3,
@@ -25,7 +25,7 @@
       "nombre": "jesus luces",
       "correo": "ja.luces@duocuc.cl",
       "number": "123456879",
-      "imagenPerfil": ""
+      "imagenPerfil": "https://www.lavanguardia.com/files/image_449_253/files/fp/uploads/2021/04/21/6080355764d78.r_d.343-220.jpeg"
     },
     {
       "id": 4,
@@ -34,7 +34,7 @@
       "nombre": "martin orellana",
       "correo": "mar.orenallac@duocuc.cl",
       "number": "123456879",
-      "imagenPerfil": ""
+      "imagenPerfil": "https://viapais.com.ar/resizer/2T8l30eILqOz4pK2emocfPE2ZaI=/980x640/smart/filters:quality(75):format(webp)/cloudfront-us-east-1.images.arcpublishing.com/grupoclarin/RQL7OCORBJDRXHHTW5SMRQAHDI.jpg"
     }
 
   ],
@@ -46,7 +46,7 @@
       "nombre": "patito onichan",
       "correo": "patri.yane@eduocucprofe.cl",
       "number": "123456879",
-      "imagenPerfil": ""
+      "imagenPerfil": "https://www.nld.cl/wp-content/uploads/2022/08/NLD-Abogados-JP-Mesias-min.jpg"
     },
     {
       "id": 2,
@@ -55,7 +55,7 @@
       "nombre": "pabro ramirez",
       "correo": "pedro.ya@eduocucprofe.cl",
       "number": "123456879",
-      "imagenPerfil": ""
+      "imagenPerfil": "https://www.nld.cl/wp-content/uploads/2022/08/NLD-Abogados-JP-Mesias-min.jpg"
     }
   ]
 }
