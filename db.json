@@ -10,7 +10,7 @@
       "imagenPerfil": "https://i.ytimg.com/vi/j3A7Y3JbyXs/maxresdefault.jpg",
       "changedPassword": "",
       "newPassword": ""
-    },
+    }
   ],
   "docentes": [
     {
@@ -23,7 +23,7 @@
       "imagenPerfil": "https://www.nld.cl/wp-content/uploads/2022/08/NLD-Abogados-JP-Mesias-min.jpg",
       "changedPassword": "",
       "newPassword": ""
-    },
+    }
   ],
   "reset-password": []
 }
