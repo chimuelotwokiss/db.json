@@ -1,29 +1,58 @@
 {
   "alumnos": [
     {
-      "id": 1,
-      "username": "fer.araneda",
-      "password": "contrasena1",
+      "id": "fer.araneda",
+      "newPassword": "123",
       "nombre": "fer araneda",
       "correo": "fer.araneda@duocuc.cl",
       "number": "123456877",
-      "imagenPerfil": "https://i.ytimg.com/vi/j3A7Y3JbyXs/maxresdefault.jpg",
-      "changedPassword": "",
-      "newPassword": ""
+      "imagenPerfil": "https://i.ytimg.com/vi/j3A7Y3JbyXs/maxresdefault.jpg"
+    },
+    {
+      "id": "pedro.capone",
+      "newPassword": "fer",
+      "nombre": "el insano",
+      "correo": "fer.aranedasda@duocuc.cl",
+      "number": "123423877",
+      "imagenPerfil": "https://i.ytimg.com/vi/j3A7Y3JbyXs/maxresdefault.jpg"
+    },
+    {
+      "id": "juanca.ser",
+      "newPassword": "fer",
+      "nombre": "juanquita",
+      "correo": "tujugueton@duoc.cla",
+      "number": "12342375",
+      "imagenPerfil": "https://i.ytimg.com/vi/Xl1Sldvhl-4/maxresdefault.jpg"
     }
   ],
   "docentes": [
     {
-      "id": 1,
-      "username": "patito.ya",
-      "password": "contrasena1",
+      "id": "patito.ya",
+      "newPassword": "fer",
       "nombre": "patito onichan",
       "correo": "patri.yane@eduocucprofe.cl",
       "number": "123456879",
-      "imagenPerfil": "https://www.nld.cl/wp-content/uploads/2022/08/NLD-Abogados-JP-Mesias-min.jpg",
-      "changedPassword": "",
-      "newPassword": ""
+      "imagenPerfil": "https://www.nld.cl/wp-content/uploads/2022/08/NLD-Abogados-JP-Mesias-min.jpg"
     }
   ],
-  "reset-password": []
+  "asignaturas": [
+    {
+      "id": 1,
+      "nombre": "Matemáticas",
+      "codigo": "MAT101",
+      "creditos": 4
+    },
+    {
+      "id": 2,
+      "nombre": "Historia",
+      "codigo": "HIS201",
+      "creditos": 3
+    },
+    {
+      "id": 3,
+      "nombre": "Programación",
+      "codigo": "PROG301",
+      "creditos": 5
+    }
+  ]
 }
